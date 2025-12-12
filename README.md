@@ -1,7 +1,7 @@
 ## End to End Machine Learning project
 # 💸 Loan Default Prediction & Cost Optimization
 
-![Project Banner]([https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80&w=1000](https://www.shutterstock.com/image-photo/loan-default-concept-broken-model-house-2441689171?trackingId=7b9f345e-2d2d-488e-9f9b-b0e3d5822b07))
+![Project Banner]([https://unsplash.com/photos/form-application-information-data-word-P7i9dwXNo6w))
 
 ## 📖 Overview
 
